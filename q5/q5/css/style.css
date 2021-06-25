@@ -1,2 +1,25 @@
 @charset "UTF-8";
-
+.flex-container-1 {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container-2 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.flex-container-3 {
+  display: flex;
+  flex-direction: column;
+}
+.flex-container-4 {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.flex {
+  background: #00bbdd;
+  margin: 10px;
+  width: 65px;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
