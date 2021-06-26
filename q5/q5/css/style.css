@@ -36,3 +36,23 @@
   display: flex;
   flex-wrap: wrap-reverse;
 }
+.justify-1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.justify-2 {
+  display: flex;
+  justify-content: flex-end;
+}
+.justify-3 {
+  display: flex;
+  justify-content: center;
+}
+.justify-4 {
+  display: flex;
+  justify-content: space-between;
+}
+.justify-5 {
+  display: flex;
+  justify-content: space-around;
+}
