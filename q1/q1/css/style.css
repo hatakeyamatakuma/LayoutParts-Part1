@@ -1,32 +1,29 @@
 @charset "UTF-8";
 /* 回答はここから */
-.white-block {
-  width: 200px;
-  padding: 20px 0 20px 0 ;
-  font-size: 16px;
-  background: #fff;
-}
-.text-align {
-  text-align: center;
-}
-.pr-block {
-  width: 90px;
-  background: #a4b3e9;
-  padding: 10px;
-  margin: 0 auto;
-}
-
-.white {
+.white-box {
   width: 200px;
   padding: 20px 0 20px 0;
+  background: #fff;
+}
+.purple-box {
+  text-align: center;
+}
+.text-align {
   font-size: 16px;
+  padding: 10px;
+  display: inline-block;
+  background: #a4b3e9
+}
+.white-box2 {
+  width: 200px;
+  padding: 20px 0 20px 0;
   background: #fff;
 }
 .margin {
-  margin: 0 auto;
-  width: 50px;
+  font-size: 16px;
+  text-align: center;
 }
-.pr {
+.purple-box2 {
   width: 90px;
   margin: 0 auto;
   padding: 10px;
