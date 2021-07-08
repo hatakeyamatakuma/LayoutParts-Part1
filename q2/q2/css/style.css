@@ -1,35 +1,14 @@
 @charset "UTF-8";
-.list {
+.content {
   display: flex;
   justify-content: center;
 }
-.list-1 {
+.list {
   width: 200px;
-  margin: 0 auto;
   margin: 30px;
   outline: 10px solid #655;
   box-shadow: 0 0 0 6px #655;
   border-radius: 13px;
-  background: #d2b48c;
   padding: 10px;
-}
-.list-2 {
-  outline: 10px solid #655;
-  width: 200px;
-  margin: 0 auto;
-  margin: 30px;
-  box-shadow: 0 0 0 6px #655;
-  border-radius: 13px;
   background: #d2b48c;
-  padding: 10px;
-}
-.list-3 {
-  width: 200px;
-  margin: 0 auto;
-  margin: 30px;
-  outline: 10px solid #655;
-  box-shadow: 0 0 0 6px #655;
-  border-radius: 13px;
-  background: #d2b48c;
-  padding: 10px;
 }
